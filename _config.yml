@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Saba Etezad Razavi
+title: MohammadHossein Namdar
 
 # Short description of your site
 description: It's my personal webiste!
@@ -11,7 +11,7 @@ description: It's my personal webiste!
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://sabaetezadrazavi.github.io"
+url: "https://mhnamdar.github.io"
 baseurl: ""
 
 # If you are building a GitHub page then use these settings:
@@ -22,7 +22,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://sabaetezadrazavi.github.io"
+  Home: "https://mhnamdar.github.io"
   Publications: "Publications"
   Research: "Research"
   Outside Physics: "OutsideWork"
@@ -64,17 +64,17 @@ footer-img: "/img/bkimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Saba Etezad Razavi
+  name: MohammadHossein Namdar
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  github: SabaEtezadRazavi
-  linkedin: saba-etezad-razavi
-  email: "s_etezadrazavi@yahoo.com"
-  email: " saba.etezad@physics.sharif.edu"
+  github: mhnamdar
+  linkedin: XXXXX
+  email: "mh.namdar2000@gmail.com"
+  email: "mo.namdar@mail.sbu.ac.ir"
   #twitter: ldralighieri
   #reddit: ldralighieri
 #  rss: false
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sabaetezadrazavi.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "mhnamdar.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
