@@ -4,10 +4,10 @@ title: Outreach
 subtitle: 
 description: Writing for fun!
 show-avatar: false
-image: /img/blog.png
+image: /img/starws.jpg
 tags: [outreach]
 ---
 
-# In SUT
+# In SBU
 
-## Tea and Physics!
+## STAR Workshop!
