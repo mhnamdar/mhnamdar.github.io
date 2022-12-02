@@ -7,7 +7,6 @@ show-avatar: false
 image: /img/starws.jpg
 tags: [outreach]
 ---
-
+<p align="center"> <img src="../img/starws.jpg" height="600px"> </p>
 # In SBU
-
 ## STAR Workshop!
