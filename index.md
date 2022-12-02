@@ -2,7 +2,7 @@
 layout: page
 title: MohammadHossein Namdar
 subtitle: 
-description: Frankenstein would want your mind!
+description: If you want to find the secrets of the universe, think in terms of energy, frequency and vibration! *Tesla
 tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 ---
    
