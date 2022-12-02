@@ -23,9 +23,9 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 
 ## Education
 
-- **[Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018- Sep 2021
+- **[Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018 - Sep 2021
 
-- **[Shahid Beheshti University](https://en.sbu.ac.ir/)**, Iran - Tehran, Msc in Gravity & Cosmology, Sep 2021 to June 2023
+- **[Shahid Beheshti University](https://en.sbu.ac.ir/)**, Iran - Tehran, Msc in Gravity & Cosmology, Sep 2021 - Currently
 
 
 ## Experience
