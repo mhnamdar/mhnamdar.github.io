@@ -13,7 +13,8 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 
 
 
-<h1 align="center"> <p style="color:red;"> Namaste :)
+<h1 align="center"> <p style="color:red;"> Namaste :) 
+
    Welcome to my Homepage </p> </h1>
 
    
@@ -26,8 +27,8 @@ Hi again! Im mohammadHossein this is my personal webpage! I was born in Nov 2000
 ## Education
 
 - **[Shahid Beheshti University](https://en.sbu.ac.ir/)**, Iran - Tehran, Msc in Gravity & Cosmology, Sep 2021 - Currently
-- 
+
 - **[Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018 - Sep 2021
-- 
-- **[Allameh Helli 1 high school](http://english.iut.ac.ir/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
+
+- **[Allameh Helli 1 high school](https://www.helli.ir/portal/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
 
