@@ -17,22 +17,16 @@ tags: [mhnamdar,cosmology,astrophysic,machinelearning]
 <style>p{color:black;}</style>
 
 
-<h1 align="center"> <p style="color:orange;">Here you can find a summary on some of my research projects.</p> </h1>
+<h1 align="center"> <p style="color:red;">Here you can find a summary on some of my research projects.</p> </h1>
+
+I am currently working on Monge-Ampere gravity!
+Have you ever thought that you can explain the structure of the sky only with a mathematical algorithm independent of physics?
 
 
+#Cosmic Web! 
 
-I mostly 
-
-
-
-
-# Deep
-
-[![deep](./img/deep.jpg)](https://github.com/Machine-Learning-in-Structure-formation/NLSFML)
-
-
-
-*"Prisdf"* :)
+<p align="center"> <img src="../img/cosmicweb.jpg" height="600px"> </p>
+Simulating the structure of the universe
 
 
 
