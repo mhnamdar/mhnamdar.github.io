@@ -10,7 +10,7 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 <style>H2{color:Black;}</style>
 <style>H3{color:Black;}</style>
 <style>p{color:Black;}</style>
- <embed src="/html/Kalimba.mp3" loop="true" autostart="true" width="2" height="0">
+ <embed src="https://github.com/mhnamdar/mhnamdar.github.io/blob/main/music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2" height="0">
 
 
 <h1 align="center"> <p style="color:red;"> Namaste :) 
