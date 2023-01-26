@@ -33,7 +33,7 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 ## Star Workshop at SBU
 <p align="center"> <img src="../img/starws.jpg" height="600px"> </p>
 ## A review of basic physics at SBU
-<p align="center"> <img src="../img/starws.jpg" height="600px"> </p>
+<p align="center"> <img src="../img/Arphysics.jpg" height="600px"> </p>
 
 <embed src="../music/Mark%20Eliyahu%20%E2%80%93%20Journey.mp3" loop="true" autostart="true" width="2"
          height="0">
