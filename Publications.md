@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 description: booyi wooyi
 show-avatar: false
-tags: [sabaetezadrazavi]
+tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 ---
 
 
@@ -17,20 +17,6 @@ tags: [sabaetezadrazavi]
 
 
 
-<h1 align="center"> <p style="color:orange;"> List of refereed and non-refereed papers: </p> </h1>
+<h1 align="center"> <p style="color:red;"> List of refereed and non-refereed papers: </p> </h1>
 
-   
-
-
-
-
-1- Unrsgsg
-
-
-
-<h1 align="center"> <p style="color:orange;"> Talks and conferences: </p> </h1>
-
-1- Juneslkgjslig
-2- Febrishosig
-
-
+   This page is under construction ;)))))))))))
