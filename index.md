@@ -11,11 +11,6 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 <style>H3{color:Black;}</style>
 <style>p{color:Black;}</style>
 
-<audio controls autoplay>
-  <source src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
 <h1 align="center"> <p style="color:red;"> Namaste :) 
 <br>
    Welcome to my Homepage </p> </h1>
@@ -39,3 +34,5 @@ Check out my public [CV]() to know more about my works (some links are disabled 
 
 - **[Allameh Helli 1 high school](https://www.helli.ir/portal/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
 
+<embed src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2"
+         height="0">
