@@ -29,12 +29,11 @@ Check out my public [CV]() to know more about my works (some links are disabled 
 ## Education
 
 - **[Shahid Beheshti University](https://en.sbu.ac.ir/)**, Iran - Tehran, Msc in Gravity & Cosmology, Sep 2021 - Currently
-- GPA: 4/4
-
+GPA: 4/4, Ranked 1 among of 18 Students
 - **[Sharif & Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018 - Sep 2021
-- GPA: 3.98/4
+GPA: 3.98/4, Ranked 1 among of 58 Students
 - **[Allameh Helli 1 high school](https://www.helli.ir/portal/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
-- GPA: 4/4
+GPA: 4/4
 
 <embed src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2"
          height="0">
