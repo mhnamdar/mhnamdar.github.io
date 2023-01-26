@@ -26,7 +26,7 @@ Have you ever thought that you can explain the structure of the sky only with a 
 
 #Cosmic Web! 
 
-<p align="center"> <img src="../img/cosmicweb.jpg"> </p>
+<p align="center"> <img src="../img/cosmicweb.jpg" height="400px"> </p>
 Simulating the structure of the universe
 
 
