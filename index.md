@@ -35,7 +35,7 @@ Cosmology, Large Scale Structure Formation and Evolution, Dark Energy, Dark Matt
 - **[Sharif & Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018 - Sep 2021
 <br>GPA: 3.98/4, Ranked 1 among 58 Students
 - **[Allameh Helli 1 high school](https://www.helli.ir/portal/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
-<br>GPA: 4/4
+<br>GPA: 4/4, Final Ranked 3 among 250 Students
 
 <embed src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2"
          height="0">
