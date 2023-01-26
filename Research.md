@@ -20,12 +20,13 @@ tags: [mhnamdar,cosmology,astrophysic,machinelearning]
 <h1 align="center"> <p style="color:red;">Here you can find a summary on some of my research projects.</p> </h1>
 
 I am currently working on Monge-Ampere gravity!
-Have you ever thought that you can explain the structure of the sky only with a mathematical algorithm independent of physics?
+<br>
+Have you ever thought that you can explain the structure of the sky only with a mathematical algorithm independent of specific physical formulation?
 
 
 #Cosmic Web! 
 
-<p align="center"> <img src="../img/cosmicweb.jpg" height="600px"> </p>
+<p align="center"> <img src="../img/cosmicweb.jpg" height="400px"> </p>
 Simulating the structure of the universe
 
 
