@@ -17,7 +17,7 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 
 
 
-<h1 align="center"> <p style="color:red;"> List of refereed and non-refereed papers: </p> </h1>
+<h1 align="center"> <p style="color:red;"> List of refereed & non-refereed papers: </p> </h1>
 
    This page is under construction ;)))))))))))
 
@@ -26,6 +26,14 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 <br>
 - Summary:  Succeeded in writing the book Climate Phenomena and Earthquake Occurrence in February 2020. This book is based on the study of simulation and modeling of geographical phenomena, which can be related to the complex systems that are north of data processing and Drawing and analyzing related diagrams, the basics of this book can be in the field of geophysics, geography, physics, complex systems
 
+## Article
 
 
 <h1 align="center"> <p style="color:red;"> Talks & Workshops: </p> </h1>
+## Star Workshop at SBU
+<p align="center"> <img src="../img/starws.jpg" height="600px"> </p>
+## A review of basic physics at SBU
+<p align="center"> <img src="../img/starws.jpg" height="600px"> </p>
+
+<embed src="../music/Mark%20Eliyahu%20%E2%80%93%20Journey.mp3" loop="true" autostart="true" width="2"
+         height="0">
