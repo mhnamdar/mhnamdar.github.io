@@ -20,3 +20,9 @@ tags: [mhnamdar]
 <h1 align="center"> <p style="color:#ff7f50;">Very cool events are going to happen here ;)) </p> </h1>
 
 YES SIRESKI!!! 
+
+
+
+
+<embed src="../music/shisui..mp3" loop="true" autostart="true" width="2"
+         height="0">
