@@ -12,7 +12,7 @@ tags: [mhnamdar,cosmology,astrophysics,machinelearning]
 <style>p{color:Black;}</style>
 
 <audio controls autoplay>
-  <source src="https://github.com/mhnamdar/mhnamdar.github.io/blob/main/music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" type="audio/mpeg">
+  <source src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
