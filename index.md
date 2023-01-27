@@ -39,3 +39,7 @@ Cosmology, Large Scale Structure Formation and Evolution, Dark Energy, Dark Matt
 
 <embed src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2"
          height="0">
+
+## Honors & Awards
+Ranked 18th in Nationwide Granduate School Entrance Exam(MSc) in physics amongst more then 30600 participant, 2021
+<br>Ranked 16th 
