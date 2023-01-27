@@ -50,3 +50,4 @@ Cosmology, Large Scale Structure Formation and Evolution, Dark Energy, Dark Matt
 - Semifinalist in National Mathematics Olympiad, Young Scholars Club, 2016, 2017
 - Member of the National Elite Foundation (since 2018)
 - Member of National Organization for Development of Exceptional Talent (NODET)
+- Have a Brilliant talent admission scholarship without MSc exam for outstanding students [According to the academic conditions of outstanding undergraduate students, they can register for their master's degree in any university without MSc entrance exam]
