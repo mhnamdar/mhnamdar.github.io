@@ -44,7 +44,9 @@ Cosmology, Large Scale Structure Formation and Evolution, Dark Energy, Dark Matt
 Ranked 18th in Nationwide Granduate School Entrance Exam(MSc) in physics amongst more then 30600 participant, 2021
 <br>Ranked 16th in National Physics Olympiad among Iranian Undergraduate Students, 2021
 <br>Ranked 152 in Iranian University Entrance Exam (Kokur) among 184000 participants, 2018
-<br> Certificate of merit in the International Mathematics Competition (IMC), 2014
+<br> Gold medal in the International Mathematics Competition (IMC), 2014
 <br> Semifinalist in National Physics Olympiad, Young Scholars Club, 2015, 2016, 2017
 <br> Semifinalist in National Astronomy and Astrophysics Olympiad, Young Scholars Club, 2015, 2016, 2017
 <br> Semifinalist in National Mathematics Olympiad, Young Scholars Club, 2016, 2017
+<br> Member of the National Elite Foundation (since 2018)
+<br> Member of National Organization for Development of Exceptional Talent (NODET)
