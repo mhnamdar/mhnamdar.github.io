@@ -28,28 +28,7 @@ Check out my public [CV]() to know more about my works (some links are disabled 
 Cosmology, Large Scale Structure Formation and Evolution, Dark Energy, Dark Matter, Early Universe, Computational Physics, Simulation, Machine Learning, Data Analysis, Monge-Ampere, Optimal Transport
 
 
-## Education
-
-- **[Shahid Beheshti University](https://en.sbu.ac.ir/)**, Iran - Tehran, Msc in Gravity & Cosmology, Sep 2021 - Currently
-<br>GPA: 4/4, Ranked 1 among 9 Students
-- **[Isfahan University of Technology](http://english.iut.ac.ir/)**, Iran - Isfahan, BSc in Physics, Sep 2018 - Sep 2021
-<br>GPA: 3.98/4, Ranked 1 among 53 Students
-- **[Allameh Helli 1 high school](https://www.helli.ir/portal/)**, Iran - Tehran, Administered under the NODET, Sep 2014 - Sep 2018
-<br>GPA: 4/4, Final Ranked 3 among 250 Students
 
 <embed src="../music/Early_Summer_Rain_MP3_4701874_uVidBot.mp3" loop="true" autostart="true" width="2"
          height="0">
 
-## Honors & Awards
-- Winner of the award for the best author of a scientific and practical book in the young category for my [book](https://mhnamdar.github.io/Publications/), Austria, 2020
-- Ranked 18th in Nationwide Granduate School Entrance Exam(MSc) in physics amongst more then 30600 participant, 2021
-- Ranked 16th in National Physics Olympiad among Iranian Undergraduate Students, 2021
-- Ranked 152 in Iranian University Entrance Exam (Kokur) among 184000 participants, 2018
-- Gold medal in the International Mathematics Competition (IMC), 2014
-- Semifinalist in National Physics Olympiad, Young Scholars Club, 2015, 2016, 2017
-- Semifinalist in National Astronomy and Astrophysics Olympiad, Young Scholars Club, 2015, 2016, 2017
-- Semifinalist in National Mathematics Olympiad, Young Scholars Club, 2016, 2017
-- Member of the National Elite Foundation (since 2018)
-- Member of the National Organization for Development of Exceptional Talent (NODET)
-- Have a Brilliant talent admission scholarship without an MSc exam for outstanding students [According to the academic conditions of outstanding undergraduate students, they can register for their master's degree in any university without an MSc entrance exam]
- <br>...
