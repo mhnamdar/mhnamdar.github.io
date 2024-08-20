@@ -1,6 +1,6 @@
 ---
 permalink: /aboutme/
-title: "Terms and Privacy Policy"
+title: "About Me"
 modified: 2016-06-06
 ---
 
