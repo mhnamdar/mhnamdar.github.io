@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Shahid Beheshti University, Tehran, Iran   Sep 2021 – Currently
+    - M.Sc. Major in Physics - Gravity & Cosmology
+    - Supervisor: Dr. Nima Khosravi
+    - Advisor: Dr. Farnik Nikakhtar
+    - GPA: 18.19/20.00
+    - Ranked 1st out of 14 people
+
+* Isfahan University of Technology, Isfahan, Iran  Sep 2018 – Sep 2021
+    - B.Sc. Major in Physics
+    - GPA: 18.20/20.00  (Special Courses GPA: 19.07/20.00)
+    - Ranked 1st out of 53 people 
+
 
 Work experience
 ======
