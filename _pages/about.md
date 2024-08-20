@@ -16,7 +16,7 @@ Research interests
    - *Large Scale Structure & Formation*
    - *Modify Gravity* 
 - Mathematics
-    - *Monge-Ampere Equation*
+    - *Monge-Ampère Equation*
     - *Optimal Transport Theory*
 - Computer Science
     - *Computational Physics*
