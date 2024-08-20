@@ -29,7 +29,7 @@ main:
   #  url: /portfolio/
   
   - title: "CV"
-    url: /workspaces/website.github.io/files/mohammadhossein_namdar_s_CV.pdf 
+    url: /files/mohammadhossein_namdar_s_CV.pdf 
 
   - title: "BLOG POSTS"
     url: /year-archive/
