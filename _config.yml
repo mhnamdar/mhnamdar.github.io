@@ -6,6 +6,12 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Mohammad-Hossein Namdar"
@@ -346,6 +352,3 @@ compress_html:
     envs: development
 
 
-
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
