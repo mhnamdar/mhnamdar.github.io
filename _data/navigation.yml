@@ -10,8 +10,8 @@ main:
     url: /about/
 
  - title: "ABOUT ME"
-    url:  #/aboutme/
-
+    url:  
+    
   - title: "TALKS"
     url: /talks/  
 
