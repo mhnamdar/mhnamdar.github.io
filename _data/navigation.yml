@@ -10,10 +10,10 @@ main:
     url: /about/
 
  - title: "ABOUT ME"
-    url:  /about/
+    url:  
 
   - title: "RESEARCH"
-    url: /about/  
+    url: 
 
   - title: "TALKS"
     url: /talks/  
