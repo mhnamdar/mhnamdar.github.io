@@ -41,14 +41,20 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+TECHNICAL SKILLS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages 
+    * Advanced: *C/C++, Python*
+    * Intermediate: *VisualBasic 6.0, QBasic, HTML*  
+* Mathematical Programs 
+    * Advanced: *Maple* 
+    * Intermediate: *Mathematica, MATLAB*
+* Simulation Tools
+    * Advanced: *Proteus, CodeVisionAVR* 
+    * Basic Familiarity: *xAct, CAMB, CosmoMC, GADGET*
+* Documentation & Software 
+    * Advanced: *LaTeX, Microsoft Office, Ubuntu (Linux), Origin*
+
 
 Publications
 ======
