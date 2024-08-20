@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Shahid Beheshti University, Tehran, Iran   Sep 2021 – Currently
+* [Shahid Beheshti University](https://en.sbu.ac.ir/), Tehran, Iran   (Sep 2021 – Currently)
     - M.Sc. Major in Physics - Gravity & Cosmology
     - Supervisor: Dr. Nima Khosravi
     - Advisor: Dr. Farnik Nikakhtar
     - GPA: 18.19/20.00
     - Ranked 1st out of 14 people
 
-* Isfahan University of Technology, Isfahan, Iran  Sep 2018 – Sep 2021
+* [Isfahan University of Technology](https://english.iut.ac.ir/), Isfahan, Iran  (Sep 2018 – Sep 2021)
     - B.Sc. Major in Physics
     - GPA: 18.20/20.00  (Special Courses GPA: 19.07/20.00)
     - Ranked 1st out of 53 people 
