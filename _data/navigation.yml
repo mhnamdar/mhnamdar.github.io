@@ -10,7 +10,7 @@ main:
     url: /about/
 
  - title: "ABOUT ME"
-    url: /sitemap/
+    url: /non-menu-page/
 
   - title: "RESEARCH"
     url: /terms/ 
