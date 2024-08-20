@@ -7,33 +7,13 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+Hola
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Hi again! My name is Mohammad-Hossein Namdar (Persian: محمدحسین نامدار), and I am a Researcher at the Shahid Beheshti University. Before this, I received my B.Sc. in September 2021 from the Isfahan University of Technology. Currently, my work focuses on the formation and evolution of galaxies and large-scale structure of the Universe.
 
-### Log Files
+I describe my research as the convergence of theory, computation, and observation overlap. In practice, I make a theoretical prediction or devise a method, implement it in a cosmological simulation or a semi-analytical model, and then compare the results with observations.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+In my research, I view observations as insights for future theories. My work involves exploring the connections between the formation and evolution of galaxies (e.g. environmental effects, feedback processes) and large-scale structure cosmology. I strive to understand the interplay between different physical processes and their impact on the formation and evolution of galaxies across various environments.
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+I was born in Tehran, the capital of Iran (Persia). I speak Persian, English. My hobbies include singing Persian and English songs, playing classic and Persian piano, and engaging in sports like football (soccer), basketball, and ping-pong. In my free time, I enjoy reading books, watching TV series, and playing card games.
