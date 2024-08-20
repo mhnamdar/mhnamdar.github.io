@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "ABOUT ME"
+permalink: /aboutme/
+author_profile: true
+#redirect_from:
+  #- /about/
+  #- /about.html
+---
+
+
 Hi again! My name is Mohammad-Hossein Namdar (Persian: محمدحسین نامدار), and I am a Researcher at the Shahid Beheshti University. Before this, I received my B.Sc. in September 2021 from the Isfahan University of Technology. Currently, my work focuses on the formation and evolution of galaxies and large-scale structure of the Universe.
 
 I describe my research as the convergence of theory, computation, and observation overlap. In practice, I make a theoretical prediction or devise a method, implement it in a cosmological simulation or a semi-analytical model, and then compare the results with observations.
