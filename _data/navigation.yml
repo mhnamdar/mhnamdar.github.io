@@ -6,26 +6,29 @@
 
 main:
 
-  - title: "Home"
+  - title: "HOME"
     url: /about/
+
+  - title: "TALKS"
+    url: /talks/  
+
+  - title: "RESEARCH"
+    url:    
 
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  # url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  
   - title: "CV"
     url: /cv/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
   #- title: "Guide"
   #  url: /markdown/
