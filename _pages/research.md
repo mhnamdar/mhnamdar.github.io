@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 modified: 2024-08-20
 ---
-
+<p align="justify">
 When discussing the Large-Scale Structure in recent decades, given the advancements in observational astronomy, we expect a very precise cosmological understanding. One of the important topics under investigation is the distribution of formed structures and the boundaries that will exist for the formation of these structures. Many results from these advanced observational observations will provide us with a detailed map of the recent cosmos. On the other hand, we know that different cosmological theories make different predictions about the statistics of structures and voids, such as the Excursion Set Theory (EST) and the Peaks Theory \citep{Paranjape_2012}.
 
 Despite various theories proposing the necessary gravity for structure formation, the most accepted one is Poisson gravity. Nevertheless, this gravity faces challenges and tensions in cosmology, prompting people to seek an alternative gravity capable of better justifying these challenges and tensions in the cosmos. One area I worked on during my master's degree, under the guidance of \textbf{Dr. Nima Khosravi}, \textbf{Dr. Farnik Nikakhtar}, and \textbf{Prof. Roya Mohayaee}, is the ``generalized \textbf{Monge-Ampère gravity at cosmological scales} instead of Poisson gravity". We aim to investigate the merger history of dark matter halos within the Excursion Set Theory framework, utilizing the Monge-Ampère Gravity (MAG).
@@ -28,3 +28,4 @@ Additional motivations for pursuing this gravity include:
 Alongside these, we thoroughly examined Monge-Ampère gravity and its density contrast evolution equations in Fourier space, leading to the extraction of the growth factor. Moreover, we solved the potential resulting from this gravity in different dimensions and spherical coordinates, detailed in my thesis in Persian, awaiting translation and completion.
 
 Ultimately, our research extends beyond cosmology into Physics, Mathematics, and Computer Science, covering Stochastic Methods, Numerical methods, Nonlinear Dynamics, and Programming with Python and Mathematica. Please feel free to ask any questions or request information, codes, or reports from my work.
+</p>
