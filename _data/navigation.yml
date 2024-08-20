@@ -9,11 +9,11 @@ main:
   - title: "HOME"
     url: /about/
 
- #- title: "ABOUT ME"
-  #  url:  
+ - title: "ABOUT ME"
+    url: /cv/ 
 
-  #- title: "RESEARCH"
-  #  url: 
+  - title: "RESEARCH"
+    url: 
 
   - title: "TALKS"
     url: /talks/  
@@ -29,7 +29,7 @@ main:
   #  url: /portfolio/
   
   - title: "CV"
-    url: /cv/
+    url: /workspaces/website.github.io/files/mohammadhossein_namdar_s_CV.pdf 
 
   - title: "BLOG POSTS"
     url: /year-archive/
