@@ -12,8 +12,8 @@ main:
  - title: "ABOUT ME"
     url: /cv/ 
 
-  - title: "RESEARCH"
-    url: 
+  #- title: "RESEARCH"
+   # url: 
 
   - title: "TALKS"
     url: /talks/  
