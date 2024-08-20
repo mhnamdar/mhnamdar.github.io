@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to my webpage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi again! MohammadHossein here! this is my personal webpage! If I want to tell a little about myself, first of all, I was born in November 2000 and I love to understand the mystery of the sky and the universe (that’s why I’m studying physics and cosmology). My favorite hobbies are coding, observing the sky, photography, making music, playing football, and writing stories. I love producing and creating, like making music as I said before, I actually like piano, but I’ve been playing guitar for a while, maybe because it’s cheaper :) One of my dreams is to become a great physicist one day and be able to do great things, no matter what awards I get or not, I will always be looking for the secret of the universe:]
+My name is Mohammad-Hossein Namdar (Persian: محمدحسین نامدار), and I am a Researcher at the Shahid Beheshti University. Before this, I received my B.Sc. in September 2021 from the Isfahan University of Technology. Currently, my work focuses on the formation and evolution of galaxies and large-scale structure of the Universe.
+
 
 
 Research interests

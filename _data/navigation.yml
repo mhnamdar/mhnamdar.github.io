@@ -9,6 +9,9 @@ main:
   - title: "HOME"
     url: /about/
 
+ - title: "ABOUT ME"
+    url:  /aboutme/
+
   - title: "TALKS"
     url: /talks/  
 
@@ -27,7 +30,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog Posts"
+  - title: "BLOG POSTS"
     url: /year-archive/
     
   #- title: "Guide"
