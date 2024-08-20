@@ -54,6 +54,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         :  "www.linkedin.com/in/namdarmh"
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -63,7 +64,6 @@ author:
   keybase          : # Username
   instagram        : "https://www.instagram.com/mhnamdar_?igsh=MWJ4OXR1cDE0bnl2eA=="
   lastfm           : # Username
-  linkedin         :  "www.linkedin.com/in/namdarmh"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
