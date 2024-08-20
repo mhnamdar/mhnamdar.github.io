@@ -12,8 +12,8 @@ main:
  #- title: "ABOUT ME"
  #   url: /aboutme/
 
-  #- title: "RESEARCH"
-   # url: 
+  - title: "RESEARCH"
+    url: /terms/ 
 
   #- title: "TALKS"
    # url: /talks/  
