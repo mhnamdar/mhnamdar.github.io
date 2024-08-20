@@ -11,12 +11,13 @@ main:
 
  - title: "ABOUT ME"
     url:  
-    
+
+  - title: "RESEARCH"
+    url:  
+
   - title: "TALKS"
     url: /talks/  
 
-  - title: "RESEARCH"
-    url:    
 
   #- title: "Publications"
   #  url: /publications/
