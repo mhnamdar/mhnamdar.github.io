@@ -13,7 +13,7 @@ main:
  #   url: /aboutme/
 
   - title: "RESEARCH"
-    url: /terms/ 
+    url: /aboutme/ 
 
   #- title: "TALKS"
    # url: /talks/  
