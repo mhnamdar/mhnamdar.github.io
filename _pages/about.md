@@ -13,12 +13,12 @@ My name is Mohammad-Hossein Namdar (Persian: محمدحسین نامدار), and
 Research interests
 ------
 - Cosmology & Astrophysics
-:   - *Large Scale Structure & Formation*
-:   - *Modify Gravity* 
+   - *Large Scale Structure & Formation*
+   - *Modify Gravity* 
 - Mathematics
-:    - *Monge-Ampere Equation*
-:    - *Optimal Transport Theory*
+    - *Monge-Ampere Equation*
+    - *Optimal Transport Theory*
 - Computer Science
-:    - *Computational Physics*
-:    - *Simulation*
-:    - *Data Analysis*   
+    - *Computational Physics*
+    - *Simulation*
+    - *Data Analysis*   
