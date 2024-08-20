@@ -33,6 +33,8 @@ main:
 
   - title: "BLOG POSTS"
     url: /year-archive/
-    
+
+  - title: "TAGS"
+    url: /tags/   
   #- title: "Guide"
    # url: /markdown/
