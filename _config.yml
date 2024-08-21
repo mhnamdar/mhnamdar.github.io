@@ -18,7 +18,7 @@ title                    : "Mohammad-Hossein Namdar"
 title_separator          : "-"
 name                     : &name "Mohammad-Hossein Namdar"
 description              : &description "Physics Research scientist"
-url                      : https://mhnamdar.github.io/website.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mhnamdar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
