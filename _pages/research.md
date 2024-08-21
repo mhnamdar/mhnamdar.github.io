@@ -2,6 +2,10 @@
 permalink: /research/
 title: "Research"
 modified: 2024-08-20
+tags:
+  - cosmology
+  - Monge-Ampere
+  - LSS
 ---
 <style>
   .custom-paragraph {
