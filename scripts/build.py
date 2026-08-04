@@ -260,17 +260,22 @@ def home_page(data: dict, posts: list[dict]) -> str:
         </div>
         <div class="hero-affiliation"><span>{icon('pin')}</span><div><small>Currently at</small><strong>{esc(p['institution'])}</strong><em>{esc(p['department'])} · {esc(p['centre'])}</em></div></div>
       </div>
-      <div class="hero-portrait reveal" aria-label="Abstract cosmology portrait illustration">
-        <div class="portrait-system" data-parallax>
-          <div class="orbit orbit-a"></div><div class="orbit orbit-b"></div><div class="orbit orbit-c"></div>
-          <div class="star-core"></div>
-          <svg class="silhouette" viewBox="0 0 360 500" role="img" aria-label="Abstract researcher silhouette">
-            <defs><linearGradient id="silhouette-gradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#02050a"/></linearGradient></defs>
-            <path fill="url(#silhouette-gradient)" d="M228 92c21 17 31 47 26 73-3 15-13 26-18 40-4 11-3 26-11 34-8 9-25 10-35 17-14 9-22 27-24 44-2 23 6 41 27 51 32 15 73 16 100 40 28 24 41 66 45 109H22c5-51 27-96 64-120 20-13 43-19 62-31 16-10 24-27 23-46-1-17-7-34-2-51 3-10 10-18 14-28 6-14 1-30 4-45 4-25 17-52 41-67Z"/>
-          </svg>
-          <div class="portrait-label"><span>RESEARCH FIELD</span><strong>Structure · Gravity · Dark Sector</strong></div>
+      <div class="hero-portrait reveal" aria-hidden="true">
+        <div class="portrait-system cosmic-field" data-parallax>
+            <div class="orbit orbit-a"></div>
+            <div class="orbit orbit-b"></div>
+            <div class="orbit orbit-c"></div>
+            <div class="star-core"></div>
+            <div class="nebula-cloud nebula-a"></div>
+            <div class="nebula-cloud nebula-b"></div>
+            <div class="nebula-cloud nebula-c"></div>
+
+            <div class="field-caption">
+              <span>INTERACTIVE COSMIC FIELD</span>
+              <strong>Move the cursor to perturb the web</strong>
+            </div>
+          </div>
         </div>
-      </div>
       <aside class="now-panel reveal"><div class="panel-title"><span>NOW</span><i></i></div>{now_rows}</aside>
       <a class="top-cv-link" href="/cv/">{icon('file')} Curriculum Vitae</a>
       <a class="top-contact-link" href="/contact/">Get in touch {icon('arrow')}</a>
