@@ -1,0 +1,238 @@
+{
+  "site": {
+    "url": "https://mhnamdar.github.io",
+    "title": "Mohammad-Hossein Namdar — Cosmology & Astrophysics",
+    "description": "Academic website of Mohammad-Hossein Namdar, PhD student in Astrophysics at Pontificia Universidad Católica de Chile.",
+    "language": "en",
+    "accent": "#8fb8ff"
+  },
+  "profile": {
+    "name": "Mohammad-Hossein Namdar",
+    "persian_name": "محمدحسین نامدار",
+    "initials": "MHN",
+    "eyebrow": "COSMOLOGY · ASTROPHYSICS · COMPUTATION",
+    "title": "PhD Student in Astrophysics",
+    "subtitle": "Cosmology, gravity, and the formation of cosmic structure",
+    "short_bio": "I study how cosmic structure forms and evolves, with a focus on dark-sector cosmology, nonlinear gravity, halo statistics, and computational methods that connect theory with data.",
+    "long_bio": "I am a PhD student in Astrophysics at Pontificia Universidad Católica de Chile and a research assistant at the Centro de Astro-Ingeniería UC. My work sits at the intersection of theoretical cosmology, numerical computation, and data analysis. I am particularly interested in late-time dark-sector models, the nonlinear growth of structure, halo statistics, modified gravity, and optimal-transport methods in cosmology.",
+    "email": "mnamdar0@estudiante.uc.cl",
+    "location": "Santiago, Chile",
+    "institution": "Pontificia Universidad Católica de Chile",
+    "department": "Instituto de Astrofísica",
+    "centre": "Centro de Astro-Ingeniería UC",
+    "role": "PhD Student & Research Assistant",
+    "availability": "Open to research collaborations and scientific discussions.",
+    "github": "https://github.com/mhnamdar",
+    "linkedin": "https://www.linkedin.com/in/namdarmh",
+    "scholar": "",
+    "orcid": ""
+  },
+  "navigation": [
+    {"label": "Home", "href": "/", "icon": "home"},
+    {"label": "About", "href": "/about/", "icon": "user"},
+    {"label": "Research", "href": "/research/", "icon": "atom"},
+    {"label": "Projects", "href": "/projects/", "icon": "layers"},
+    {"label": "Publications", "href": "/publications/", "icon": "file"},
+    {"label": "Software", "href": "/software/", "icon": "code"},
+    {"label": "Talks", "href": "/talks/", "icon": "mic"},
+    {"label": "Blog", "href": "/blog/", "icon": "book"},
+    {"label": "CV", "href": "/cv/", "icon": "briefcase"},
+    {"label": "Contact", "href": "/contact/", "icon": "mail"}
+  ],
+  "now": [
+    {"label": "Position", "value": "PhD Student in Astrophysics"},
+    {"label": "Institution", "value": "Pontificia Universidad Católica de Chile"},
+    {"label": "Research unit", "value": "Instituto de Astrofísica · Centro de Astro-Ingeniería UC"},
+    {"label": "Based in", "value": "Santiago, Chile"}
+  ],
+  "research": [
+    {
+      "slug": "matter-diffusion-cosmology",
+      "title": "Matter-Diffusion Cosmology",
+      "status": "Active · manuscript in preparation",
+      "summary": "Cosmological constraints on constant and nonlinear matter-diffusion models using contemporary late-time data.",
+      "details": "This project studies a family of interacting dark-sector cosmologies in which matter undergoes velocity diffusion and exchanges energy with an effective scalar-field dark-energy component. We implement the constant model and four evolving diffusion parametrizations in SimpleMC, validate their background evolution, and compare them with ΛCDM and CPL using supernovae, BAO, and cosmic-chronometer measurements.",
+      "methods": ["SimpleMC", "Bayesian inference", "Late-time cosmology", "DESI BAO", "Pantheon / Pantheon+SH0ES"],
+      "collaborators": ["Alireza Zafari", "Luis A. Escamilla", "Mahdi Najafi", "Enrico Specogna", "Eleonora Di Valentino"],
+      "symbol": "σ̃"
+    },
+    {
+      "slug": "interacting-dark-energy",
+      "title": "Interacting Dark Energy",
+      "status": "Active · model development",
+      "summary": "Exploring interacting dark-energy and dark-sector extensions with physically motivated energy exchange and cosmological constraints.",
+      "details": "Together with Alireza Zafari, I am developing interacting-dark-energy scenarios and studying how dark-sector energy exchange modifies the expansion history and observable cosmological signatures. The work complements the matter-diffusion programme while keeping the model assumptions and observational interpretation distinct.",
+      "methods": ["Background dynamics", "Perturbations", "Parameter inference", "Model comparison"],
+      "collaborators": ["Alireza Zafari"],
+      "symbol": "Q"
+    },
+    {
+      "slug": "monge-ampere-gravity",
+      "title": "Monge–Ampère Gravity & Structure Formation",
+      "status": "Ongoing research programme",
+      "summary": "Analytical and computational study of structure formation under an effective Monge–Ampère gravitational law.",
+      "details": "My work on Monge–Ampère gravity includes the weak-field Poisson limit, spherical solutions, linear and nonlinear spherical collapse, Eulerian perturbation theory, one-loop matter power spectra, and halo statistics. The broader goal is to understand how nonlinear, optimal-transport-inspired gravity changes cosmic-web morphology and clustering relative to the Newtonian case.",
+      "methods": ["Optimal transport", "Spherical collapse", "Perturbation theory", "Halo statistics", "Numerical cosmology"],
+      "collaborators": ["Nima Khosravi", "Farnik Nikakhtar", "Roya Mohayaee"],
+      "symbol": "det"
+    },
+    {
+      "slug": "computational-cosmology-uc",
+      "title": "Computational Cosmology at UC",
+      "status": "Current PhD research",
+      "summary": "Research in computational astrophysics and cosmology at the Centro de Astro-Ingeniería UC.",
+      "details": "As a PhD student and research assistant at UC Chile, I work within a computational research environment on problems connected to cosmology, astrophysical structure, simulation, and scientific data analysis. This programme includes ongoing collaboration with Prof. Rolando Dünner and Prof. Gaspar Galaz; project-specific public details will be added as the work matures.",
+      "methods": ["Scientific computing", "Simulation", "Data analysis", "High-performance computing"],
+      "collaborators": ["Rolando Dünner", "Gaspar Galaz"],
+      "symbol": "N"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Cosmological Constraints on Matter Diffusion Models",
+      "type": "Current manuscript",
+      "year": "2026",
+      "description": "Implementation and Bayesian comparison of constant and nonlinear diffusion cosmologies against late-time observational probes.",
+      "tags": ["SimpleMC", "Dark sector", "Bayesian inference"],
+      "href": "/research/#matter-diffusion-cosmology"
+    },
+    {
+      "title": "Interacting Dark-Energy Extensions",
+      "type": "Current collaboration",
+      "year": "2026",
+      "description": "Model building and cosmological inference for interacting dark-energy scenarios, developed with Alireza Zafari.",
+      "tags": ["Interacting dark energy", "Cosmology", "Inference"],
+      "href": "/research/#interacting-dark-energy"
+    },
+    {
+      "title": "Cosmological Structure Formation in Monge–Ampère Gravity",
+      "type": "Research manuscript / MSc programme",
+      "year": "2024–present",
+      "description": "Weak-field limits, spherical collapse, perturbation theory, one-loop clustering, and halo statistics in an effective nonlinear gravity model.",
+      "tags": ["Modified gravity", "Optimal transport", "Large-scale structure"],
+      "href": "/research/#monge-ampere-gravity"
+    },
+    {
+      "title": "Computational Astrophysics at Centro de Astro-Ingeniería UC",
+      "type": "PhD research",
+      "year": "2026–present",
+      "description": "Current computational research collaboration at UC Chile with Rolando Dünner and Gaspar Galaz.",
+      "tags": ["Simulation", "Astrophysics", "HPC"],
+      "href": "/research/#computational-cosmology-uc"
+    },
+    {
+      "title": "Halo Assembly and Dark-Matter Signatures",
+      "type": "Exploratory direction",
+      "year": "Future work",
+      "description": "Connecting merger histories, substructure, and halo assembly to indirect dark-matter observables and cross-correlation analyses.",
+      "tags": ["Halo assembly", "Dark matter", "Gamma rays"],
+      "href": "/projects/#future-directions"
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "title": "Cosmological Constraints on Matter Diffusion Models",
+      "authors": "Alireza Zafari, Mohammad-Hossein Namdar, Luis A. Escamilla, Mahdi Najafi, Enrico Specogna, Eleonora Di Valentino",
+      "venue": "Manuscript in preparation",
+      "status": "In preparation",
+      "links": []
+    },
+    {
+      "year": "2024–",
+      "title": "Cosmological Structure Formation in Monge–Ampère Gravity",
+      "authors": "Mohammad-Hossein Namdar and collaborators",
+      "venue": "Research manuscript in development",
+      "status": "Ongoing",
+      "links": []
+    },
+    {
+      "year": "2024",
+      "title": "Cosmological Structure Formation in Monge–Ampère Gravity",
+      "authors": "Mohammad-Hossein Namdar",
+      "venue": "MSc thesis, Shahid Beheshti University",
+      "status": "Thesis",
+      "links": []
+    }
+  ],
+  "software": [
+    {
+      "name": "SimpleMC diffusion extensions",
+      "language": "Python",
+      "description": "Model implementations and analysis workflows for constant and nonlinear matter-diffusion cosmologies.",
+      "status": "Research code"
+    },
+    {
+      "name": "Cosmological inference workflows",
+      "language": "Python",
+      "description": "Reusable scripts for chain inspection, posterior visualization, model comparison, and reproducible scientific figures.",
+      "status": "In development"
+    },
+    {
+      "name": "Monge–Ampère analytical notebooks",
+      "language": "Python · Mathematica",
+      "description": "Symbolic and numerical notebooks for collapse dynamics, perturbation kernels, power spectra, and halo statistics.",
+      "status": "Research code"
+    },
+    {
+      "name": "Scientific website engine",
+      "language": "Python · JavaScript",
+      "description": "The dependency-free static-site generator and interactive front end powering this website.",
+      "status": "Open source"
+    }
+  ],
+  "talks": [
+    {
+      "year": "2024",
+      "title": "Cosmological Structure Formation in Monge–Ampère Gravity",
+      "event": "MSc thesis defense · Shahid Beheshti University",
+      "description": "Analytical and numerical aspects of nonlinear gravity, collapse, and cosmic structure formation."
+    }
+  ],
+  "education": [
+    {
+      "period": "2026–present",
+      "degree": "PhD in Astrophysics",
+      "institution": "Pontificia Universidad Católica de Chile",
+      "detail": "Instituto de Astrofísica · Centro de Astro-Ingeniería UC"
+    },
+    {
+      "period": "2021–2024",
+      "degree": "MSc in Physics — Gravity and Cosmology",
+      "institution": "Shahid Beheshti University",
+      "detail": "GPA 18.19/20 · ranked 1st among 14 students"
+    },
+    {
+      "period": "2017–2021",
+      "degree": "BSc in Physics",
+      "institution": "Isfahan University of Technology",
+      "detail": "GPA 18.20/20 · ranked 1st"
+    }
+  ],
+  "experience": [
+    {
+      "period": "2026–present",
+      "role": "Research Assistant",
+      "institution": "Centro de Astro-Ingeniería UC",
+      "detail": "Computational astrophysics and cosmology; collaboration with Rolando Dünner and Gaspar Galaz."
+    },
+    {
+      "period": "2026–present",
+      "role": "PhD Student",
+      "institution": "Instituto de Astrofísica, Pontificia Universidad Católica de Chile",
+      "detail": "Research in cosmology, structure formation, and scientific computing."
+    }
+  ],
+  "skills": [
+    "Theoretical cosmology",
+    "Large-scale structure",
+    "Dark-sector cosmology",
+    "Modified gravity",
+    "Halo statistics",
+    "Optimal transport",
+    "Bayesian inference",
+    "Scientific Python",
+    "Mathematica",
+    "High-performance computing"
+  ]
+}

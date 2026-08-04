@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050914">
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta name="author" content="Mohammad-Hossein Namdar">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{TITLE}}">
+  <meta property="og:description" content="{{DESCRIPTION}}">
+  <meta property="og:url" content="{{CANONICAL}}">
+  <meta property="og:image" content="{{SITE_URL}}/assets/images/og-card.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="{{CANONICAL}}">
+  <link rel="icon" href="{{ROOT}}assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="alternate" type="application/rss+xml" title="Mohammad-Hossein Namdar — Notes" href="{{ROOT}}feed.xml">
+  <link rel="stylesheet" href="{{ROOT}}assets/css/main.css">
+  <title>{{TITLE}}</title>
+</head>
+<body class="page-{{PAGE_SLUG}}">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="site-shell">
+    {{SIDEBAR}}
+    {{MOBILE_HEADER}}
+    <main id="main-content" class="site-main">
+      {{CONTENT}}
+      {{FOOTER}}
+    </main>
+  </div>
+  <script type="module" src="{{ROOT}}assets/js/main.js"></script>
+</body>
+</html>

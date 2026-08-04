@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhnamdar.github.io/sitemap.xml
